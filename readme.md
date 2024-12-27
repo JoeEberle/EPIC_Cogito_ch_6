@@ -242,6 +242,13 @@ to force a report to re run. The Trace feature is covered in the Troubleshooting
 HRN records eventually get purged from the system a few months after they expire.
 
 
+
+## View Manager
+
+Users can click the **View Manager** to save a view (filters and sorting on the Detail List﴿ or save a
+Workbench visualization ﴾a graph built in the Explore tab).
+
+
 ![Solution](code.png)
 
     
