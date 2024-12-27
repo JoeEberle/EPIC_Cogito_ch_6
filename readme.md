@@ -163,6 +163,85 @@ report.
 
 
 
+
+## Criteria Tab
+
+The **criteria tab** controls the search. When creating a new report from a template, some criteria 
+may be selected automatically. These default criteria are set by the template. Additional criteria may be selected by using the search bar at the top of the Report Settings window.
+Search by keyword and press ENTER or click the magnifying glass to browse the full list.
+
+Some administrators will have the security to **add additional criteria** to the list using the **Add
+Criterion** button at the bottom of this list of criteria. Using this option well typically requires
+knowledge of the Chronicles database and additional training on Workbench template settings.
+
+
+
+## Report Logic and Criterion Logic
+
+The **default report logic** will be **AND logic**, meaning that all criteria must be met for a row to be returned
+in the results. Click the AND button to toggle to the OR and CUSTOM options. Custom logic assigns a
+number to each criteria, which can then be referenced with a logical expression.
+
+Most **criteria** use **OR logic** by default. Criterion logic can also be toggled by clicking 
+the button until the OR or CUSTOM option appears.
+
+For a similar discussion of logic options in SlicerDicer, see the **Criteria section** of the 
+SlicerDicer Populations chapter.
+
+
+
+## Date Range
+
+There are several ways to evaluate dates in Reporting Workbench. Which options are available depends
+on the Workbench template settings and the master file being searched.
+
+## Default Date Range Behavior
+The Workbench ad hoc search engine evaluates criteria as it works through the Chronicles hierarchy.
+1. **Master file** the Workbench template has one search master file.
+2. **Records** the search engine identifies records to include in the search results. It evaluates recordlevel
+criteria  to determine which records to include.
+3. **Contacts** the search engine identifies which contacts to include in the search results. It evaluates
+overtime criteria to determine which contacts to include.
+
+The date range found at the top of the **Report Settings window** is used to evaluate time sensitive,
+or **overtime criteria**. **Overtime criteria** can be identified by the clock icon on the Criteria tab.
+
+If a Workbench report using the default date range behavior does not include any overtime criteria, the
+date range will not be used.
+
+
+
+## Specialized Date Range Behavior
+
+Some Workbench templates apply custom date range behavior using specialized M code. For example,
+the Find Orders [440] template can apply the date range to Order Creation Date, Medication
+Administration Date, or other dates related to orders. This is similar to the Dates card behaviors present in
+most SlicerDicer data models.
+
+
+
+
+## Date Criteria
+
+Some items in Chronicles store dates. It is possible to add Workbench criteria to evaluate these dates. For
+example, the Enrollment Date is an item in the **Episodes (HSB) master file**. A Workbench report could
+apply a criteria evaluating this item to find all episodes with an enrollment date in the last two weeks.
+
+Recall that the template defines what criteria will be available, and therefore what dates can be evaluated
+as criteria on a given report.
+
+For a similar discussion of date options in SlicerDicer, see the Criteria: Advanced Options section of the
+**SlicerDicer Populations** chapter.
+
+**When building a new report**, it is common to test the report by **re running** it. Reporting
+Workbench will rerun a report if there have been any changes to the Criteria, Display, or
+Summary tab, regardless of the Hours to keep results setting. It’s also possible to run a Trace
+to force a report to re run. The Trace feature is covered in the Troubleshooting lesson.
+
+**HRN records** can be saved and even customized by the consumer, but they are ultimately temporary: all
+HRN records eventually get purged from the system a few months after they expire.
+
+
 ![Solution](code.png)
 
     
