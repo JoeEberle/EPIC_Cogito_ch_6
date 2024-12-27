@@ -208,3 +208,269 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 16:08:09,369 - INFO - START EPIC_Cogito_ch_6 =============================================
+2024-12-26 16:08:09,369 - INFO - START EPIC_Cogito_ch_6 Start Time = 2024-12-26 16:08:09
+2024-12-26 16:08:09,369 - INFO - EPIC_Cogito_ch_6 Step 0 - Initialize the configuration file parser
+2024-12-26 16:08:09,370 - INFO - Process EPIC_Cogito_ch_6 Step 0 - Initializing and starting Logging Process.
+2024-12-26 16:08:09,509 - INFO - PERFORMANCE EPIC_Cogito_ch_6 The total process duration was:0.14
+2024-12-26 16:08:09,509 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Stop Time = 2024-12-26 16:08:09
+2024-12-26 16:08:09,510 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Short process duration less than 3 Seconds:0.14
+2024-12-26 16:08:09,510 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Performance optimization is not reccomended
+2024-12-26 16:08:09,510 - INFO - END EPIC_Cogito_ch_6 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 16:09:04,799 - INFO - START EPIC_Cogito_ch_6 =============================================
+2024-12-26 16:09:04,799 - INFO - START EPIC_Cogito_ch_6 Start Time = 2024-12-26 16:09:04
+2024-12-26 16:09:04,800 - INFO - EPIC_Cogito_ch_6 Step 0 - Initialize the configuration file parser
+2024-12-26 16:09:04,800 - INFO - Process EPIC_Cogito_ch_6 Step 0 - Initializing and starting Logging Process.
+2024-12-26 16:09:04,938 - INFO - PERFORMANCE EPIC_Cogito_ch_6 The total process duration was:0.14
+2024-12-26 16:09:04,938 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Stop Time = 2024-12-26 16:09:04
+2024-12-26 16:09:04,938 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Short process duration less than 3 Seconds:0.14
+2024-12-26 16:09:04,938 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Performance optimization is not reccomended
+2024-12-26 16:09:04,938 - INFO - END EPIC_Cogito_ch_6 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 16:11:16,823 - INFO - START EPIC_Cogito_ch_6 =============================================
+2024-12-26 16:11:16,824 - INFO - START EPIC_Cogito_ch_6 Start Time = 2024-12-26 16:11:16
+2024-12-26 16:11:16,824 - INFO - EPIC_Cogito_ch_6 Step 0 - Initialize the configuration file parser
+2024-12-26 16:11:16,824 - INFO - Process EPIC_Cogito_ch_6 Step 0 - Initializing and starting Logging Process.
+2024-12-26 16:11:16,999 - INFO - PERFORMANCE EPIC_Cogito_ch_6 The total process duration was:0.18
+2024-12-26 16:11:16,999 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Stop Time = 2024-12-26 16:11:16
+2024-12-26 16:11:16,999 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Short process duration less than 3 Seconds:0.18
+2024-12-26 16:11:16,999 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Performance optimization is not reccomended
+2024-12-26 16:11:17,000 - INFO - END EPIC_Cogito_ch_6 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 16:13:20,273 - INFO - START EPIC_Cogito_ch_6 =============================================
+2024-12-26 16:13:20,273 - INFO - START EPIC_Cogito_ch_6 Start Time = 2024-12-26 16:13:20
+2024-12-26 16:13:20,273 - INFO - EPIC_Cogito_ch_6 Step 0 - Initialize the configuration file parser
+2024-12-26 16:13:20,274 - INFO - Process EPIC_Cogito_ch_6 Step 0 - Initializing and starting Logging Process.
+2024-12-26 16:13:20,411 - INFO - PERFORMANCE EPIC_Cogito_ch_6 The total process duration was:0.14
+2024-12-26 16:13:20,411 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Stop Time = 2024-12-26 16:13:20
+2024-12-26 16:13:20,411 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Short process duration less than 3 Seconds:0.14
+2024-12-26 16:13:20,411 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Performance optimization is not reccomended
+2024-12-26 16:13:20,411 - INFO - END EPIC_Cogito_ch_6 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 16:15:05,989 - INFO - START EPIC_Cogito_ch_6 =============================================
+2024-12-26 16:15:05,990 - INFO - START EPIC_Cogito_ch_6 Start Time = 2024-12-26 16:15:05
+2024-12-26 16:15:05,990 - INFO - EPIC_Cogito_ch_6 Step 0 - Initialize the configuration file parser
+2024-12-26 16:15:05,990 - INFO - Process EPIC_Cogito_ch_6 Step 0 - Initializing and starting Logging Process.
+2024-12-26 16:15:06,130 - INFO - PERFORMANCE EPIC_Cogito_ch_6 The total process duration was:0.14
+2024-12-26 16:15:06,130 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Stop Time = 2024-12-26 16:15:06
+2024-12-26 16:15:06,130 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Short process duration less than 3 Seconds:0.14
+2024-12-26 16:15:06,130 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Performance optimization is not reccomended
+2024-12-26 16:15:06,130 - INFO - END EPIC_Cogito_ch_6 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 16:16:17,674 - INFO - START EPIC_Cogito_ch_6 =============================================
+2024-12-26 16:16:17,674 - INFO - START EPIC_Cogito_ch_6 Start Time = 2024-12-26 16:16:17
+2024-12-26 16:16:17,674 - INFO - EPIC_Cogito_ch_6 Step 0 - Initialize the configuration file parser
+2024-12-26 16:16:17,675 - INFO - Process EPIC_Cogito_ch_6 Step 0 - Initializing and starting Logging Process.
+2024-12-26 16:16:17,814 - INFO - PERFORMANCE EPIC_Cogito_ch_6 The total process duration was:0.14
+2024-12-26 16:16:17,814 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Stop Time = 2024-12-26 16:16:17
+2024-12-26 16:16:17,814 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Short process duration less than 3 Seconds:0.14
+2024-12-26 16:16:17,815 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Performance optimization is not reccomended
+2024-12-26 16:16:17,815 - INFO - END EPIC_Cogito_ch_6 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 19:08:44,803 - INFO - START EPIC_Cogito_ch_6 =============================================
+2024-12-26 19:08:44,803 - INFO - START EPIC_Cogito_ch_6 Start Time = 2024-12-26 19:08:44
+2024-12-26 19:08:44,803 - INFO - EPIC_Cogito_ch_6 Step 0 - Initialize the configuration file parser
+2024-12-26 19:08:44,803 - INFO - Process EPIC_Cogito_ch_6 Step 0 - Initializing and starting Logging Process.
+2024-12-26 19:08:44,937 - INFO - PERFORMANCE EPIC_Cogito_ch_6 The total process duration was:0.14
+2024-12-26 19:08:44,938 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Stop Time = 2024-12-26 19:08:44
+2024-12-26 19:08:44,938 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Short process duration less than 3 Seconds:0.14
+2024-12-26 19:08:44,938 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Performance optimization is not reccomended
+2024-12-26 19:08:44,938 - INFO - END EPIC_Cogito_ch_6 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 19:10:05,348 - INFO - START EPIC_Cogito_ch_6 =============================================
+2024-12-26 19:10:05,348 - INFO - START EPIC_Cogito_ch_6 Start Time = 2024-12-26 19:10:05
+2024-12-26 19:10:05,348 - INFO - EPIC_Cogito_ch_6 Step 0 - Initialize the configuration file parser
+2024-12-26 19:10:05,348 - INFO - Process EPIC_Cogito_ch_6 Step 0 - Initializing and starting Logging Process.
+2024-12-26 19:10:05,486 - INFO - PERFORMANCE EPIC_Cogito_ch_6 The total process duration was:0.14
+2024-12-26 19:10:05,486 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Stop Time = 2024-12-26 19:10:05
+2024-12-26 19:10:05,486 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Short process duration less than 3 Seconds:0.14
+2024-12-26 19:10:05,486 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Performance optimization is not reccomended
+2024-12-26 19:10:05,486 - INFO - END EPIC_Cogito_ch_6 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 19:10:58,722 - INFO - START EPIC_Cogito_ch_6 =============================================
+2024-12-26 19:10:58,723 - INFO - START EPIC_Cogito_ch_6 Start Time = 2024-12-26 19:10:58
+2024-12-26 19:10:58,723 - INFO - EPIC_Cogito_ch_6 Step 0 - Initialize the configuration file parser
+2024-12-26 19:10:58,724 - INFO - Process EPIC_Cogito_ch_6 Step 0 - Initializing and starting Logging Process.
+2024-12-26 19:10:58,859 - INFO - PERFORMANCE EPIC_Cogito_ch_6 The total process duration was:0.14
+2024-12-26 19:10:58,860 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Stop Time = 2024-12-26 19:10:58
+2024-12-26 19:10:58,860 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Short process duration less than 3 Seconds:0.14
+2024-12-26 19:10:58,860 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Performance optimization is not reccomended
+2024-12-26 19:10:58,860 - INFO - END EPIC_Cogito_ch_6 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 19:12:09,159 - INFO - START EPIC_Cogito_ch_6 =============================================
+2024-12-26 19:12:09,159 - INFO - START EPIC_Cogito_ch_6 Start Time = 2024-12-26 19:12:09
+2024-12-26 19:12:09,159 - INFO - EPIC_Cogito_ch_6 Step 0 - Initialize the configuration file parser
+2024-12-26 19:12:09,159 - INFO - Process EPIC_Cogito_ch_6 Step 0 - Initializing and starting Logging Process.
+2024-12-26 19:12:09,300 - INFO - PERFORMANCE EPIC_Cogito_ch_6 The total process duration was:0.14
+2024-12-26 19:12:09,300 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Stop Time = 2024-12-26 19:12:09
+2024-12-26 19:12:09,300 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Short process duration less than 3 Seconds:0.14
+2024-12-26 19:12:09,300 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Performance optimization is not reccomended
+2024-12-26 19:12:09,300 - INFO - END EPIC_Cogito_ch_6 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 19:13:38,721 - INFO - START EPIC_Cogito_ch_6 =============================================
+2024-12-26 19:13:38,721 - INFO - START EPIC_Cogito_ch_6 Start Time = 2024-12-26 19:13:38
+2024-12-26 19:13:38,721 - INFO - EPIC_Cogito_ch_6 Step 0 - Initialize the configuration file parser
+2024-12-26 19:13:38,722 - INFO - Process EPIC_Cogito_ch_6 Step 0 - Initializing and starting Logging Process.
+2024-12-26 19:13:38,875 - INFO - PERFORMANCE EPIC_Cogito_ch_6 The total process duration was:0.16
+2024-12-26 19:13:38,875 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Stop Time = 2024-12-26 19:13:38
+2024-12-26 19:13:38,875 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Short process duration less than 3 Seconds:0.16
+2024-12-26 19:13:38,875 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Performance optimization is not reccomended
+2024-12-26 19:13:38,875 - INFO - END EPIC_Cogito_ch_6 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 19:16:32,925 - INFO - START EPIC_Cogito_ch_6 =============================================
+2024-12-26 19:16:32,925 - INFO - START EPIC_Cogito_ch_6 Start Time = 2024-12-26 19:16:32
+2024-12-26 19:16:32,925 - INFO - EPIC_Cogito_ch_6 Step 0 - Initialize the configuration file parser
+2024-12-26 19:16:32,925 - INFO - Process EPIC_Cogito_ch_6 Step 0 - Initializing and starting Logging Process.
+2024-12-26 19:16:33,083 - INFO - PERFORMANCE EPIC_Cogito_ch_6 The total process duration was:0.16
+2024-12-26 19:16:33,083 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Stop Time = 2024-12-26 19:16:33
+2024-12-26 19:16:33,084 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Short process duration less than 3 Seconds:0.16
+2024-12-26 19:16:33,084 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Performance optimization is not reccomended
+2024-12-26 19:16:33,084 - INFO - END EPIC_Cogito_ch_6 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 19:17:07,822 - INFO - START EPIC_Cogito_ch_6 =============================================
+2024-12-26 19:17:07,822 - INFO - START EPIC_Cogito_ch_6 Start Time = 2024-12-26 19:17:07
+2024-12-26 19:17:07,822 - INFO - EPIC_Cogito_ch_6 Step 0 - Initialize the configuration file parser
+2024-12-26 19:17:07,823 - INFO - Process EPIC_Cogito_ch_6 Step 0 - Initializing and starting Logging Process.
+2024-12-26 19:17:07,975 - INFO - PERFORMANCE EPIC_Cogito_ch_6 The total process duration was:0.15
+2024-12-26 19:17:07,975 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Stop Time = 2024-12-26 19:17:07
+2024-12-26 19:17:07,975 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Short process duration less than 3 Seconds:0.15
+2024-12-26 19:17:07,976 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Performance optimization is not reccomended
+2024-12-26 19:17:07,976 - INFO - END EPIC_Cogito_ch_6 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 19:18:01,110 - INFO - START EPIC_Cogito_ch_6 =============================================
+2024-12-26 19:18:01,110 - INFO - START EPIC_Cogito_ch_6 Start Time = 2024-12-26 19:18:01
+2024-12-26 19:18:01,110 - INFO - EPIC_Cogito_ch_6 Step 0 - Initialize the configuration file parser
+2024-12-26 19:18:01,110 - INFO - Process EPIC_Cogito_ch_6 Step 0 - Initializing and starting Logging Process.
+2024-12-26 19:18:01,265 - INFO - PERFORMANCE EPIC_Cogito_ch_6 The total process duration was:0.16
+2024-12-26 19:18:01,265 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Stop Time = 2024-12-26 19:18:01
+2024-12-26 19:18:01,266 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Short process duration less than 3 Seconds:0.16
+2024-12-26 19:18:01,266 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Performance optimization is not reccomended
+2024-12-26 19:18:01,266 - INFO - END EPIC_Cogito_ch_6 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 19:19:21,547 - INFO - START EPIC_Cogito_ch_6 =============================================
+2024-12-26 19:19:21,547 - INFO - START EPIC_Cogito_ch_6 Start Time = 2024-12-26 19:19:21
+2024-12-26 19:19:21,547 - INFO - EPIC_Cogito_ch_6 Step 0 - Initialize the configuration file parser
+2024-12-26 19:19:21,547 - INFO - Process EPIC_Cogito_ch_6 Step 0 - Initializing and starting Logging Process.
+2024-12-26 19:19:21,703 - INFO - PERFORMANCE EPIC_Cogito_ch_6 The total process duration was:0.16
+2024-12-26 19:19:21,703 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Stop Time = 2024-12-26 19:19:21
+2024-12-26 19:19:21,703 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Short process duration less than 3 Seconds:0.16
+2024-12-26 19:19:21,704 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Performance optimization is not reccomended
+2024-12-26 19:19:21,704 - INFO - END EPIC_Cogito_ch_6 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 19:20:30,491 - INFO - START EPIC_Cogito_ch_6 =============================================
+2024-12-26 19:20:30,491 - INFO - START EPIC_Cogito_ch_6 Start Time = 2024-12-26 19:20:30
+2024-12-26 19:20:30,491 - INFO - EPIC_Cogito_ch_6 Step 0 - Initialize the configuration file parser
+2024-12-26 19:20:30,491 - INFO - Process EPIC_Cogito_ch_6 Step 0 - Initializing and starting Logging Process.
+2024-12-26 19:20:30,668 - INFO - PERFORMANCE EPIC_Cogito_ch_6 The total process duration was:0.18
+2024-12-26 19:20:30,668 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Stop Time = 2024-12-26 19:20:30
+2024-12-26 19:20:30,668 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Short process duration less than 3 Seconds:0.18
+2024-12-26 19:20:30,668 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Performance optimization is not reccomended
+2024-12-26 19:20:30,668 - INFO - END EPIC_Cogito_ch_6 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 19:22:22,324 - INFO - START EPIC_Cogito_ch_6 =============================================
+2024-12-26 19:22:22,324 - INFO - START EPIC_Cogito_ch_6 Start Time = 2024-12-26 19:22:22
+2024-12-26 19:22:22,324 - INFO - EPIC_Cogito_ch_6 Step 0 - Initialize the configuration file parser
+2024-12-26 19:22:22,324 - INFO - Process EPIC_Cogito_ch_6 Step 0 - Initializing and starting Logging Process.
+2024-12-26 19:22:22,483 - INFO - PERFORMANCE EPIC_Cogito_ch_6 The total process duration was:0.16
+2024-12-26 19:22:22,484 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Stop Time = 2024-12-26 19:22:22
+2024-12-26 19:22:22,484 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Short process duration less than 3 Seconds:0.16
+2024-12-26 19:22:22,484 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Performance optimization is not reccomended
+2024-12-26 19:22:22,484 - INFO - END EPIC_Cogito_ch_6 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 19:24:05,501 - INFO - START EPIC_Cogito_ch_6 =============================================
+2024-12-26 19:24:05,501 - INFO - START EPIC_Cogito_ch_6 Start Time = 2024-12-26 19:24:05
+2024-12-26 19:24:05,501 - INFO - EPIC_Cogito_ch_6 Step 0 - Initialize the configuration file parser
+2024-12-26 19:24:05,501 - INFO - Process EPIC_Cogito_ch_6 Step 0 - Initializing and starting Logging Process.
+2024-12-26 19:24:05,660 - INFO - PERFORMANCE EPIC_Cogito_ch_6 The total process duration was:0.16
+2024-12-26 19:24:05,660 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Stop Time = 2024-12-26 19:24:05
+2024-12-26 19:24:05,661 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Short process duration less than 3 Seconds:0.16
+2024-12-26 19:24:05,661 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Performance optimization is not reccomended
+2024-12-26 19:24:05,661 - INFO - END EPIC_Cogito_ch_6 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 19:25:23,448 - INFO - START EPIC_Cogito_ch_6 =============================================
+2024-12-26 19:25:23,449 - INFO - START EPIC_Cogito_ch_6 Start Time = 2024-12-26 19:25:23
+2024-12-26 19:25:23,449 - INFO - EPIC_Cogito_ch_6 Step 0 - Initialize the configuration file parser
+2024-12-26 19:25:23,450 - INFO - Process EPIC_Cogito_ch_6 Step 0 - Initializing and starting Logging Process.
+2024-12-26 19:25:23,605 - INFO - PERFORMANCE EPIC_Cogito_ch_6 The total process duration was:0.16
+2024-12-26 19:25:23,606 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Stop Time = 2024-12-26 19:25:23
+2024-12-26 19:25:23,606 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Short process duration less than 3 Seconds:0.16
+2024-12-26 19:25:23,606 - INFO - PERFORMANCE EPIC_Cogito_ch_6 Performance optimization is not reccomended
+2024-12-26 19:25:23,606 - INFO - END EPIC_Cogito_ch_6 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        

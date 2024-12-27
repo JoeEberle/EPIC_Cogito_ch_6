@@ -99,3 +99,57 @@ data.
 their icon.
 
 
+
+
+## Reporting Workbench Reports
+
+Just as every **SlicerDicer session** is built from an **existing data model**, every **Workbench report** is built
+from an existing **template**. 
+
+A **Workbench report** can query **Chronicles, Clarity, or Caboodle** depending on
+the template used to build the report. 
+
+
+
+## Reporting Workbench Reports 
+
+Just as every **SlicerDicer session** is built from an **existing data model**, every **Workbench report** is built
+from an existing **template**. 
+
+A **Workbench report** can query **Chronicles, Clarity, or Caboodle** depending on
+the template used to build the report. 
+
+The **template** also defines what **criteria**, **display columns**, and **actions** can be taken on the report.
+
+To **modify an existing report**, click the **pencil icon** for the report from the **Analytics Catalog.**
+
+You can also right click and select Edit.
+
+# 
+
+## The following **Report Settings tabs** form the basis of report build:
+
+#### Criteria tab 
+
+**Criteria tab** This tab is used to set the criteria, date range, and logic. It determines which rows
+will be returned by the report when it is run. With the appropriate security,
+administrators can add additional criteria that are not available from the
+template.
+
+Date range behavior varies by template. See the Criteria Tab section for more
+information.
+
+#### Display Tab
+
+**Display tab** This tab is used to **add or remove display columns** from the report and to add
+detailed views to the results. With the appropriate security, administrators can add
+**additional columns** that are not available from the template.
+
+Each display column is a PAF record. Its job is to retrieve data and display it on a
+report.
+
+#### Summary tab
+
+**Summary tab** This tab is optional and used to **visualize aggregated data** about report results.
+
+
